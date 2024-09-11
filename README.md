@@ -1,4 +1,3 @@
-﻿# truc_quan_diem_thi
 # Tên Dự Án
 
 ## Mô Tả
