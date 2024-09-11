@@ -1,4 +1,4 @@
-# Tên Dự Án
+# Điểm Thi THPT Quốc Gia Năm 2024
 
 ## Mô Tả
 Dự án này sử dụng Python để trực quan hóa dữ liệu điểm thi THPT Quốc Gia năm 2024 từ cơ sở dữ liệu SQL Server.
